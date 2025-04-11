@@ -1,0 +1,28 @@
+.centered {
+    width: 900px;
+    margin: 20px auto;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.firstrow {
+    background-color: darkolivegreen;
+    padding: 40px 25px;
+    margin-bottom: 0px;
+    color: white;
+    font-size: 36px;
+}
+
+.secondrow {
+    font-size: 24px;
+    font-weight: bold;
+    color: darkgray;
+    background-color: ivory;
+    padding: 40px;
+}
+
+li {
+    margin: 10px;
+}
